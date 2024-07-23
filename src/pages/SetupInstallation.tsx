@@ -1,7 +1,6 @@
-// src/pages/SetupInstallation.tsx
-
 import React from 'react';
- 
+import './SetupInstallation.css';
+
 const SetupInstallation: React.FC = () => {
   return (
     <div className="setup-installation-page">
@@ -40,7 +39,7 @@ const SetupInstallation: React.FC = () => {
               <pre><code>npm install</code></pre>
             </li>
             <li>Create a <code>.env</code> file for environment variables in the <code>frontend</code> directory. Add the necessary configurations, such as API endpoints:
-              <pre><code>REACT_APP_API_URL=http://localhost:5000/api</code></pre>
+             
             </li>
             <li>Start the frontend development server:
               <pre><code>npm start</code></pre>
@@ -111,7 +110,7 @@ PORT=5000</code></pre>
         </section>
       </main>
       <footer className="setup-installation-footer">
-        <p>© 2024 Bypict. All rights reserved.</p>
+        <p>© 2024 IEEE-hackathon. All rights reserved.</p>
       </footer>
     </div>
   );
