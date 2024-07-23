@@ -11,7 +11,7 @@ const Home: React.FC = () => {
           <h2>About the Project</h2>
           <p>This website is part of the IEEE TechRush hackathon, created by Team Smooth Operators.</p>
           <p>Project Details:</p>
-          <p><strong>Hackathon Name:</strong> IEEE TechRush <img className="ieee-logo-inline" src="/images/ieee-logo.png" alt="IEEE Logo" /></p>
+          <p><strong>Hackathon Name:</strong> IEEE TechRush <img className="ieee-logo-inline" src="../assets/logo.jpeg" alt="IEEE Logo" /></p>
           <p><strong>Project Name:</strong> Pokedex</p>
           <p><strong>Team Name:</strong> Smooth Operators</p>
           <p>The Pokedex project is developed under problem statement of full-stack devlopment and aims to provide a comprehensive and user-friendly 
