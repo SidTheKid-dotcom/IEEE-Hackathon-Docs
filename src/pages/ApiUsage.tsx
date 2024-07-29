@@ -42,6 +42,7 @@ fetch(\`\${process.env.REACT_APP_API_URL}/pokemon/\${pokemonName}\`)
       
       <h2>Image Recognition API</h2>
       <p>
+        We have used a gemini integration for the image pokemon recognition.
         If your application integrates with an image recognition API to identify Pokémon from images, you might use an endpoint like:
       </p>
       <pre>
