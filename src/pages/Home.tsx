@@ -11,7 +11,7 @@ const Home: React.FC = () => {
           <h2>About the Project</h2>
           <p>This website is part of the IEEE TechRush hackathon, created by Team Smooth Operators.</p>
           <p>Project Details:</p>
-          <p><strong>Hackathon Name:</strong> IEEE TechRush <img className="ieee-logo-inline" src="../assets/logo.jpeg" alt="IEEE Logo" /></p>
+          <p><strong>Hackathon Name:</strong> IEEE TechRush <img className="ieee-logo-inline" src="logo.jpeg" alt="IEEE Logo" /></p>
           <p><strong>Project Name:</strong> Pokedex</p>
           <p><strong>Team Name:</strong> Smooth Operators</p>
           <p>The Pokedex project is developed under problem statement of full-stack devlopment and aims to provide a comprehensive and user-friendly 
@@ -21,19 +21,19 @@ const Home: React.FC = () => {
           <h2>Meet the Smooth Operators</h2>
           <div className="team-members">
             <div className="team-member">
-              <img src="/images/siddhant.jpg" alt="Siddhant Vishnu" />
+              <img src="photo4.jpg" alt="Siddhant Vishnu" />
               <p>Siddhant Vishnu</p>
             </div>
             <div className="team-member">
-              <img src="/images/yash.jpg" alt="Yash Pawar" />
+              <img src="photo3.jpg" alt="Yash Pawar" />
               <p>Yash Pawar</p>
             </div>
             <div className="team-member">
-              <img src="/images/darshan.jpg" alt="Darshan Wagh" />
+              <img src="photo2.jpg" alt="Darshan Wagh" />
               <p>Darshan Wagh</p>
             </div>
             <div className="team-member">
-              <img src="/images/satyam.jpg" alt="Satyam Mengshetti" />
+              <img src="photo1.jpg" alt="Satyam Mengshetti" />
               <p>Satyam Mengshetti</p>
             </div>
           </div>
